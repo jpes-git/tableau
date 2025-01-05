@@ -3,7 +3,7 @@
 🔗 [View Dashboard](https://public.tableau.com/app/profile/john.patrick.salvatin/viz/Book1_17361058573910/Dashboard1?publish=yes)
 
 ## Overview
-This project is a recreation of a Tableau dashboard inspired by Mo Chen's YouTube tutorial. It demonstrates my skills in data visualization and Tableau dashboard development.
+This project is a recreation of a Tableau dashboard inspired by Mo Chen. It demonstrates my skills in data visualization and Tableau dashboard development.
 
 ## Features
 
@@ -27,4 +27,4 @@ This project improved my skills in:
 Feel free to explore the dashboard through the link provided above. If you'd like to learn more about how it was created, you can view the full project repository here.
 
 ## Acknowledgments
-Special thanks to Mo Chen for his YouTube tutorial that served as the inspiration and guide for this project.
+Special thanks to Mo Chen for his tutorial that served as the inspiration and guide for this project.
